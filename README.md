@@ -19,4 +19,4 @@ the player who gets higher points is the winner.
 
 ## Start the Game
 
-python3 game.py PYTHON PYTHON 1 
+     python3 game.py PYTHON PYTHON 1 
