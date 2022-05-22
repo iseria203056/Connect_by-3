@@ -1,5 +1,5 @@
 # Connect_Game
-Apply AI Gaming comcept to implement a small zero sum game
+Apply AI Gaming concept to implement a small zero sum game
 
 In this part, the minimax algorithm is applied in this gmae 
 
